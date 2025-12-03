@@ -24,4 +24,8 @@ public class Produto {
     public int getNome() {
         return 0;
     }
+
+    public int compareTo(Produto dado) {
+        return 0;
+    }
 }
